@@ -2,9 +2,9 @@
 //using namespace std; то так не робиться :)
 
 int main() {
-    int a = 1;
-    std::cout << a << std::endl;
-    std::cout << "Hello team!"<< std::endl;
+    std::cout << "Hello team!Perfect cooperation"<< std::endl;
+    std::cout << "it is my first commit"<< std::endl;
+    std::cout << "Glory to Ukraine!"<< std::endl; // Glory to Heroes
     return 0;
     //а отак
 }
